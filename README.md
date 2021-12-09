@@ -24,7 +24,7 @@ Hi, I'm Weiyan Shi!
           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       </li>
       <li>
-          ASR Algorithm development Intern at
+          ASR Algorithm Intern at
           <a href="https://www.nio.cn/">Nio</a>
           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       </li>
