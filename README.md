@@ -105,10 +105,3 @@ Hi, I'm Weiyan Shi!
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
