@@ -9,24 +9,9 @@ Hi, I'm Weiyan Shi!
   <em>
     <ul>
       <li>
-          Undergraduate student at
-          <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a>
-          <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
-      </li>
-      <li>
           Graduate student at
           <a href="https://www.pku.edu.cn/">Peking University</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
-      </li>
-      <li>
-          Software Development Intern at 
-          <a href="https://www.kuaishou.com/">Kuaishou</a>
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-      </li>
-      <li>
-          ASR Algorithm Intern at
-          <a href="https://www.nio.cn/">Nio</a>
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       </li>
     </ul>
   </em>
