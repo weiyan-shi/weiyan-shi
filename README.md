@@ -4,7 +4,7 @@ Hi, I'm Weiyan Shi!
 </h2>  
   
 
-<div align="left"><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="180">
+<div align="left"><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="150">
 <p>
   <em>
     <ul>
@@ -16,7 +16,7 @@ Hi, I'm Weiyan Shi!
       <li>
           Advertising algorithm Intern at
           <a href="https://www.didiglobal.com/">DiDi</a>
-          <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       </li>
     </ul>
   </em>
