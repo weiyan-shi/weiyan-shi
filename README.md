@@ -9,8 +9,13 @@ Hi, I'm Weiyan Shi!
   <em>
     <ul>
       <li>
-          Graduate student at
+          Graduate Student at
           <a href="https://www.pku.edu.cn/">Peking University</a>
+          <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
+      </li>
+      <li>
+          Advertising algorithm Intern at
+          <a href="https://www.didiglobal.com/">Didi Global</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
       </li>
     </ul>
