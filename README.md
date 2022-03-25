@@ -15,7 +15,7 @@ Hi, I'm Weiyan Shi!
       </li>
       <li>
           Advertising algorithm Intern at
-          <a href="https://www.didiglobal.com/">Didi Global</a>
+          <a href="https://www.didiglobal.com/">DiDi</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
       </li>
     </ul>
