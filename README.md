@@ -13,11 +13,6 @@ Hi, I'm Weiyan Shi!
           <a href="https://www.pku.edu.cn/">Peking University</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
       </li>
-      <li>
-          Advertising Algorithm Intern at
-          <a href="https://www.didiglobal.com/">DiDi</a>
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-      </li>
     </ul>
   </em>
 </p></div>  
