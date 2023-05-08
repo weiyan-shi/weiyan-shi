@@ -17,7 +17,7 @@ Hi, I'm Weiyan Shi!
   </em>
 </p></div>  
   
-<a href="https://cn.linkedin.com/in/%E5%94%AF%E5%A6%8D-%E7%9F%B3-03500b194" target="_blank">
+<a href="https://www.linkedin.com/in/shiweiyan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/emma_is_evil" target="_blank">
