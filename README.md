@@ -13,6 +13,9 @@ Hi, I'm Weiyan Shi!
           <a href="https://www.pku.edu.cn/">Peking University</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
       </li>
+      <li>
+        See the LinkedIn Page for details.
+      </li>
     </ul>
   </em>
 </p></div>  
