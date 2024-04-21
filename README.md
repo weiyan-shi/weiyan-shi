@@ -4,7 +4,7 @@ Hi, I'm Weiyan Shi!
 </h2>  
   
 
-<div align="left"><img align='right' src="https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/627ab7afbecefSpM.gif" width="160">
+<div align="left"><img align='right' src="https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/627ab7afbecefSpM.gif" width="120">
 
 <p>
   <em>
