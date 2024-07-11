@@ -10,8 +10,9 @@ Hi, I'm Weiyan Shi!
   <em>
     <ul>
       <li>
-          Graduate Student at
-          <a href="https://www.pku.edu.cn/">Peking University</a>
+          PhD student at
+          <a href="https://istd.sutd.edu.sg/">Information Systems Technology and Design Pillar</a>, 
+          <a href="https://sutd.edu.sg/">Singapore University of Technology and Design</a>
           <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
       </li>
       <li>
