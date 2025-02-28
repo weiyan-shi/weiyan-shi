@@ -14,7 +14,7 @@ Hi, I'm Weiyan Shi!
             <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">   
         </li>
         <li>
-          See my <a href="https://weiyan-shi.github.io">Homepage</a>, <a href="https://www.linkedin.com/in/shiweiyan">LinkedIn</a> for details.
+          See my <a href="https://weiyan-shi.github.io">Homepage</a> for details.
         </li>
       </ul>
   </p>
