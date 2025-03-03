@@ -9,7 +9,7 @@ Hi, I'm Weiyan Shi!
   <p>
     <ul>
         <li>
-            👩🏻‍💻 PhD student at
+            👩🏻‍💻 PhD Student at
             <a href="https://sutd.edu.sg/">Singapore University of Technology and Design</a>
         </li>
         <li>🐈‍⬛ Human-Computer Interaction, Ubicomp, Human-Centered AI</li>
