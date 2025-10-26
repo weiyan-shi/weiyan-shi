@@ -7,17 +7,7 @@ Hi, I'm Weiyan Shi!
 <div align="left">
   <img align='right' src="https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/627ab7afbecefSpM.gif" width="120" />
   <p>
-    <ul>
-        <li>
-            👩🏻‍💻 PhD Student at
-            <a href="https://sutd.edu.sg/">Singapore University of Technology and Design</a>
-        </li>
-        <li>🐈‍⬛ Human-Computer Interaction, Ubicomp, Human-Centered AI</li>
-        <li>
-          👩🏻‍🎓 Before Msc in <a href="https://english.pku.edu.cn/">Peking University</a>, Bsc in <a href='https://english.bit.edu.cn/'>Beijing Institute of Technology
-</a>
-        </li>
-      <li>🩵 <a href="https://weiyan-shi.github.io/" target="_blank">Homepage</a>, <a href="https://www.linkedin.com/in/shiweiyan" target="_blank">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=ywi8b0EAAAAJ" target="_blank">Google Scholar</a></li>
-      </ul>
+I'm currently a Ph.D. student at Context-Aware Interaction Lab, Singapore University of Technology and Design (SUTD).
+My research interest is Human-Centred AI, exploring how humans and AI can align understanding and communication for better collaboration.
   </p>
 </div>  
