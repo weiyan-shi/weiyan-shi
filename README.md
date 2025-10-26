@@ -5,7 +5,6 @@ Hi, I'm Weiyan Shi!
   
 
 <div align="left">
-  <img align='right' src="https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/627ab7afbecefSpM.gif" width="120" />
   <p>
 I'm currently a Ph.D. student at Context-Aware Interaction Lab, Singapore University of Technology and Design (SUTD).
 My research interest is Human-Centred AI, exploring how humans and AI can align understanding and communication for better collaboration.
